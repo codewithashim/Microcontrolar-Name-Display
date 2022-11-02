@@ -1,0 +1,81 @@
+[Directories]
+Include=
+Library=
+LinkerScript=
+output=
+
+[defines]
+enabled=0
+chip=1
+D1=
+V1=
+buildcount=7
+
+[fileformats]
+forcecoff=1
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+expandtree=0
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+
+[PROJECT]
+Target=Name Display.pdsprj.hex
+Development_Mode=
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+CCSVersion=5.049
+Compiler=PCM
+
+[Target Data]
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+FileList=Name Display.pdsprj.c
+
+[Name Display.pdsprj.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=Name Display.pdsprj.c
+
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+
+
+[CompilerVersion]
+Fixed=
+
+[ProjectLog]
+Days=1
+D1=03-11-2022
+D1_L=4
+D1_L1=[3897]Project Opened.
+D1_L2=[3900]Started Editing.
+D1_L3=[4890]Stopped Editing.
+TotalEdit=17
+TotalDebug=0
+D1_E=17
+D1_D=0
+D1_L4=[4890]Project Closed.
+
+[Opened Files]
+1=Name Display.pdsprj.c
+t1=13
+Count=1
+[Units]
+Count=1
+1=Name Display.pdsprj (main)
